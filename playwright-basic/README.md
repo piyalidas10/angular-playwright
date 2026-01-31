@@ -1,6 +1,6 @@
 # PlaywrightBasic
 
-<img src="./playwright.png" width="600px">
+<img src="./playwright.png" width="100%">
 
 ## ✅ First Real Angular E2E Test (Playwright)
 🎯 Scenario (Very Interview-Friendly)

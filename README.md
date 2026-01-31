@@ -1,7 +1,7 @@
 # angular-playwright
 Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
-<img src="./playwright-basic/playwright.png" width="600px">
+<img src="./playwright-basic/playwright.png" width="100%">
 
 “Playwright E2E tests live outside src in a tests/ directory to enforce separation of concerns, avoid bundling test code, and align with Playwright’s standalone execution and CI-first design.”
 
