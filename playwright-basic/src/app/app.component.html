@@ -1,0 +1,14 @@
+<h1 data-testid="title">{{ title }}</h1>
+
+<button
+  data-testid="increment-btn"
+  (click)="increment()"
+>
+  Increment
+</button>
+
+<p data-testid="counter">{{ count }}</p>
+
+
+<!-- ⚠️ Key rule for E2E
+👉 Always use data-testid, not CSS classes. -->
